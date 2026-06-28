@@ -1,8 +1,29 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T17:51:14.059Z",
+  "generated_at": "2026-06-28T17:54:20.832Z",
   "base_url": "https://foot-kit.zappy5.app",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "539642d5-b499-4889-9f5a-ae1e5c1e7863",
+      "slug": "pryymyr-lyg-j1n339",
+      "name": "פריימיר ליג",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הליגה של הכוכבים",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://foot-kit.zappy5.app/product/pryymyr-lyg-j1n339",
+      "categories": [],
+      "updated_at": "2026-06-28T17:53:49.071Z"
+    }
+  ]
 }

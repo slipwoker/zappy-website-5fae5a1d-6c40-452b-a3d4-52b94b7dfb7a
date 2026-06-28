@@ -4,6 +4,17 @@
     <title>foot_kit</title>
     <link>https://foot-kit.zappy5.app</link>
     <description>Product feed for foot_kit</description>
-    <lastBuildDate>Sun, 28 Jun 2026 17:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:54:20 GMT</lastBuildDate>
+    <item>
+      <g:id>539642d5-b499-4889-9f5a-ae1e5c1e7863</g:id>
+      <g:title>פריימיר ליג</g:title>
+      <g:description>הליגה של הכוכבים</g:description>
+      <g:link>https://foot-kit.zappy5.app/product/pryymyr-lyg-j1n339</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>foot_kit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
