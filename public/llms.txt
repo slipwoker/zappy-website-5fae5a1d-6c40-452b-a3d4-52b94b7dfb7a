@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://foot-kit-5fae5a1d.zappy5.app
+https://example.com
 חנות חולצות כדורגל אונליין בעיצוב שחור ומרשים. חולצות רשמיות מהליגות הגדולות בעולם, עם תמונות אמיתיות ומגוון מידות. היכנסו עכשיו ל-foot_kit והתלבשו כמו האלופים.
 
 ### ליגות
-https://foot-kit-5fae5a1d.zappy5.app/leagues
+https://example.com/leagues
 דפדפו בין אוסף חולצות הכדורגל המרהיב מליגות הפרמייר ליג, לה ליגה, סרייה א&#39; ובונדסליגה. כל פריט אותנטי, מוצג בתמונות אמיתיות ובמידות מגוונות. האתר הכי זול במדינה מחכה לכם.
 
 ### גביע העולם
-https://foot-kit-5fae5a1d.zappy5.app/world-cup
+https://example.com/world-cup
 חולצות נבחרות לאומיות כדורגל מכל העולם, כולל גביע העולם הנוכחי. עיצוב מוקפד, תמונות אמיתיות ומבחר מידות לכל אוהד. הצטרפו ל-foot_kit וחגגו את האהבה למשחק.
 
 ### מידות ואותנטיות
-https://foot-kit-5fae5a1d.zappy5.app/sizing-authenticity
+https://example.com/sizing-authenticity
 גלו את מדריך המידות המקיף שלנו ואת ההבטחה לאותנטיות מלאה. כל חולצה ב-foot_kit עוברת בדיקה קפדנית כדי שתקבלו רק את המקור. התאימו את החולצה המושלמת עוד היום.
 
 ### צור קשר
-https://foot-kit-5fae5a1d.zappy5.app/contact
+https://example.com/contact
 יש שאלה על חולצות כדורגל, מידות או משלוחים? צרו קשר עם צוות foot_kit ונחזור אליכם במהירות עם חיוך ושירות אישי. האתר הכי זול במדינה זמין גם עבורכם בוואטסאפ ובמייל.
 
 ### Products
-https://foot-kit-5fae5a1d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - foot_kit
 
 ### Cart
-https://foot-kit-5fae5a1d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://foot-kit-5fae5a1d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://foot-kit-5fae5a1d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://foot-kit-5fae5a1d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://foot-kit-5fae5a1d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://foot-kit-5fae5a1d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - foot_kit
 
 ### Category
-https://foot-kit-5fae5a1d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - foot_kit
 
 ### תודה שפנית אלינו
-https://foot-kit-5fae5a1d.zappy5.app/thank-you
+https://example.com/thank-you
 foot_kit - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://foot-kit-5fae5a1d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://foot-kit-5fae5a1d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://foot-kit-5fae5a1d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://foot-kit-5fae5a1d.zappy5.app/sitemap.xml
-- Robots: https://foot-kit-5fae5a1d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://foot-kit-5fae5a1d.zappy5.app/llms-full.txt
-- Products (JSON): https://foot-kit-5fae5a1d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://foot-kit-5fae5a1d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
