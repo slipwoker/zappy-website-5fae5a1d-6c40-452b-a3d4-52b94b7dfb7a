@@ -1,0 +1,109 @@
+# foot_kit — Generative Engine Optimization Map
+
+> foot_kit is a football jersey e-commerce store with a bold black-themed design, organized by leagues. The store features authentic football shirts from the world's top leagues (such as Premier League, La Liga, Serie A, Bundesliga, etc.) as well as current World Cup jerseys. Each product is showcased with real product images and available in multiple sizes. The brand targets football fans and collectors who want official or replica jerseys from elite competitions.
+
+---
+
+## Pages
+
+### בית
+https://foot-kit-5fae5a1d.zappy5.app
+חנות חולצות כדורגל אונליין בעיצוב שחור ומרשים. חולצות רשמיות מהליגות הגדולות בעולם, עם תמונות אמיתיות ומגוון מידות. היכנסו עכשיו ל-foot_kit והתלבשו כמו האלופים.
+
+### ליגות
+https://foot-kit-5fae5a1d.zappy5.app/leagues
+דפדפו בין אוסף חולצות הכדורגל המרהיב מליגות הפרמייר ליג, לה ליגה, סרייה א&#39; ובונדסליגה. כל פריט אותנטי, מוצג בתמונות אמיתיות ובמידות מגוונות. האתר הכי זול במדינה מחכה לכם.
+
+### גביע העולם
+https://foot-kit-5fae5a1d.zappy5.app/world-cup
+חולצות נבחרות לאומיות כדורגל מכל העולם, כולל גביע העולם הנוכחי. עיצוב מוקפד, תמונות אמיתיות ומבחר מידות לכל אוהד. הצטרפו ל-foot_kit וחגגו את האהבה למשחק.
+
+### מידות ואותנטיות
+https://foot-kit-5fae5a1d.zappy5.app/sizing-authenticity
+גלו את מדריך המידות המקיף שלנו ואת ההבטחה לאותנטיות מלאה. כל חולצה ב-foot_kit עוברת בדיקה קפדנית כדי שתקבלו רק את המקור. התאימו את החולצה המושלמת עוד היום.
+
+### צור קשר
+https://foot-kit-5fae5a1d.zappy5.app/contact
+יש שאלה על חולצות כדורגל, מידות או משלוחים? צרו קשר עם צוות foot_kit ונחזור אליכם במהירות עם חיוך ושירות אישי. האתר הכי זול במדינה זמין גם עבורכם בוואטסאפ ובמייל.
+
+### Products
+https://foot-kit-5fae5a1d.zappy5.app/products
+המוצרים שלנו - foot_kit
+
+### Cart
+https://foot-kit-5fae5a1d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://foot-kit-5fae5a1d.zappy5.app/checkout
+תשלום
+
+### Login
+https://foot-kit-5fae5a1d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://foot-kit-5fae5a1d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://foot-kit-5fae5a1d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://foot-kit-5fae5a1d.zappy5.app/product/:slug
+פרטי המוצר - foot_kit
+
+### Category
+https://foot-kit-5fae5a1d.zappy5.app/category/:slug
+מוצרים - foot_kit
+
+### תודה שפנית אלינו
+https://foot-kit-5fae5a1d.zappy5.app/thank-you
+foot_kit - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://foot-kit-5fae5a1d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://foot-kit-5fae5a1d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://foot-kit-5fae5a1d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About foot_kit
+foot_kit is a football jersey e-commerce store with a bold black-themed design, organized by leagues. The store features authentic football shirts from the world's top leagues (such as Premier League, La Liga, Serie A, Bundesliga, etc.) as well as current World Cup jerseys. Each product is showcased with real product images and available in multiple sizes. The brand targets football fans and collectors who want official or replica jerseys from elite competitions.
+
+## Target Audience
+- אוהדי כדורגל, קונים חולצות כדורגל מליגות מובחרות ומונדיאל
+- אוהדי כדורגל
+- אספני חולצות נדירות
+- שחקני כדורגל צעירים
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://foot-kit-5fae5a1d.zappy5.app/sitemap.xml
+- Robots: https://foot-kit-5fae5a1d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://foot-kit-5fae5a1d.zappy5.app/llms-full.txt
+- Products (JSON): https://foot-kit-5fae5a1d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://foot-kit-5fae5a1d.zappy5.app/product-feed.xml
