@@ -83,10 +83,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### פריימיר ליג
-https://foot-kit.zappy5.app/product/pryymyr-lyg-j1n339
+https://foot-kit.zappy5.app/product/pryymyr-lyg-0qfz1i
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: הליגה של הכוכבים
+- Image: https://foot-kit.zappy5.app/assets/product-1782669669602-tetg9o.webp
 
 ---
 
